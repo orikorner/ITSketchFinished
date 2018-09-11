@@ -1,3 +1,27 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name='app_name'>ITSketch</string>
+    <string name='picture'>Picture</string>
+    <string name='description_info'>Info</string>
+    <string name='request_permission'>This sample needs camera permission.</string>
+    <string name='camera_error'>This device doesn\'t support Camera2 API.</string>
+    <string name="current_image_taken">Current Image taken</string>
+    <string name="ok">OK</string>
+    <string name="clear">Clear</string>
+    <string name="splash_screen_text">Calculating...</string>
+    <string name="discard">Discard</string>
+    <string name="save">Save</string>
+    <string name="selection_by_right_arrow_img">Selection by Right Arrow img</string>
+    <string name="name">Name:</string>
+    <string name="cancel">Cancel</string>
+    <string name="apply">Apply</string>
+    <string name="add_notes">Add Notes</string>
+    <string name="welcome_to_itsketch_n">Welcome To ITSketch</string>
+    <string name="copyrights"><![CDATA[Copyright 2018 Ori Korner & Eliav Mor]]></string>
+    <string name="Done">Done</string>
+    <string name="kitchen">Kitchen</string>
+    <string name="Bathroom">Bathroom</string>
+    <string name="Default">Default</string>
+    <string name="Bedroom">Bedroom</string>
+    <string name="livingroom">Livingroom</string>
+    <string name="toilet">Toilet</string>
 </resources>
